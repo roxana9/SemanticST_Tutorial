@@ -23,7 +23,7 @@ extensions = [
     'sphinx.ext.napoleon',  # Support Google-style docstrings
     'myst_nb',              # Enable Jupyter Notebook support
 ]
-edit_on_github = True
+
 
 # Allow Markdown and Jupyter notebooks
 nb_execution_mode = "off"  # Prevents execution of notebooks during build
@@ -39,6 +39,13 @@ exclude_patterns = []
 html_theme = "sphinx_rtd_theme"
 
 html_static_path = ['_static','source/notebooks/IMG_notebook']
-
+html_show_sourcelink = False
+html_context = {
+    "display_github": True,            
+    "github_user": "roxana9", # Replace with your GitHub username or organization
+    "github_repo": "SemanticST_Tutorial",         # Replace with your repository name
+    "github_version": "main",            # Branch name (often 'main' or 'master')
+    "conf_py_path": "/docs/",     # Path from the repo root to your docs folder
+}
 
 
