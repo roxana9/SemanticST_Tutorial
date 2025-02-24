@@ -10,6 +10,7 @@ SemanticST: Spatially informed semantic graph learning for effective clustering 
    :maxdepth: 1
    :caption: Tutorials
 
+   installation 
    source/notebooks/DLPFC
    source/notebooks/mouse_brain_Visium
    source/notebooks/Mouse_brain_slideseq
