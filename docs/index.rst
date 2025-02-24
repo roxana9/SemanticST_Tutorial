@@ -5,7 +5,13 @@ Explore how SemanticST can help with your spatial transcriptomics analysis.
 
 SemanticST: Spatially informed semantic graph learning for effective clustering and integration of spatial transcriptomics
 ==========================================================================================================================
-   
+ |PyPI|
+ 
+ 
+..  |PyPI| image:: https://img.shields.io/badge/pypi-v1.1.2-8A2BE2
+    :target: https://pypi.org/project/semanticst
+    
+    
 .. toctree::
    :maxdepth: 1
    :caption: Tutorials
