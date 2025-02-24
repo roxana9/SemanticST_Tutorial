@@ -17,7 +17,7 @@ SemanticST: Spatially informed semantic graph learning for effective clustering 
    source/notebooks/Integration_vertical
    
 .. image:: source/_static/semanticst_figure.png
-   :width: 600px
+   :width: 800px
    :align: center
    :alt: SemanticST Pipeline 
    
