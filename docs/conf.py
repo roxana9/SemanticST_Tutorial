@@ -23,6 +23,7 @@ extensions = [
     'sphinx.ext.napoleon',  # Support Google-style docstrings
     'myst_nb',              # Enable Jupyter Notebook support
 ]
+edit_on_github = True
 
 # Allow Markdown and Jupyter notebooks
 nb_execution_mode = "off"  # Prevents execution of notebooks during build
@@ -38,3 +39,6 @@ exclude_patterns = []
 html_theme = "sphinx_rtd_theme"
 
 html_static_path = ['_static','source/notebooks/IMG_notebook']
+
+
+
