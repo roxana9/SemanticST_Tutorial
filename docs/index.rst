@@ -14,7 +14,7 @@ SemanticST: Spatially informed semantic graph learning for effective clustering 
     
 .. toctree::
    :maxdepth: 1
-   :caption: Tutorials
+  
 
    installation 
    source/notebooks/DLPFC
