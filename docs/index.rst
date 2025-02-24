@@ -1,3 +1,8 @@
+Welcome to the Documentation of the SemanticST Project!
+=======================================================
+Explore how SemanticST can help with your spatial transcriptomics analysis. 
+
+
 SemanticST: Spatially informed semantic graph learning for effective clustering and integration of spatial transcriptomics
 ==========================================================================================================================
    
@@ -17,7 +22,7 @@ SemanticST: Spatially informed semantic graph learning for effective clustering 
    source/notebooks/Integration_vertical
    
 .. image:: source/_static/semanticst_figure.png
-   :width: 800px
+   :width: 1400
    :align: center
    :alt: SemanticST Pipeline 
    
