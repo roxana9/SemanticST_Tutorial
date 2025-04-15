@@ -23,8 +23,7 @@ SemanticST: Spatially informed semantic graph learning for effective clustering,
    source/notebooks/Stereo-seq mouse olfactory bulb
    source/notebooks/Mouse_embryo_E9.5
    source/notebooks/Breast_cancer
-   source/notebooks/Liver_cancer_non_responder
-   source/notebooks/Liver_cancer_responder
+   source/notebooks/Xenium_Breast_cancer
    source/notebooks/Integration
    source/notebooks/Integration_vertical
    

@@ -53,7 +53,7 @@ To create a conda environment and install the SemanticST package, follow these s
    pip install ipykernel
 
    python -m ipykernel install --user --name=SemanticST
-Required Dependencies
+3. Required Dependencies
 ====================
 
 To install the dependencies using pip, you can simply run:
