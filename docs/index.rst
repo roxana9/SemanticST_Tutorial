@@ -8,7 +8,7 @@ SemanticST: Spatially informed semantic graph learning for effective clustering,
  |PyPI|
  
  
-..  |PyPI| image:: https://img.shields.io/badge/pypi-v1.1.2-8A2BE2
+..  |PyPI| image:: https://img.shields.io/badge/pypi-v1.1.3-8A2BE2
     :target: https://pypi.org/project/semanticst
     
     
